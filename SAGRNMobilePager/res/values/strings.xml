@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">SAGRN Mobile Pager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="feedone">Feed 1</string>
+    <string name="feedtwo">Feed 2</string>
+    <string name="about_menu_name">About</string>
+    <string name="settings">Settings</string>
+    <string name="about_message">SAGRN Mobile Pager Ver alpha_0.2.01</string>
+    <string name="notificationsCheckBox">Notifications</string>
+    <string name="filtersCheckBox">Filter Pages</string>
+    <string name="notify_check_summ">Turn on/off notifications</string>
+    <string name="filter_check_summ">Turn on/off filtering</string>
+    <string name="service_started">Example Service started</string>
+    <string name="service_label">Example Service Label</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="desc_filter_edit">Add phrases to filter for. To filter multiple phrases, seperate phrases with semicolons. Leave blank for no filter.</string>
+    <string name="desc_select_feed">Choose SAGRN Paging Feed</string>
+    <string name="title_filter_edit">"Filter "</string>
+    <string name="title_select_feed">Select Feed</string>
+    <string name="stopfeed">Stop Feed</string>
+    <string name="keyfilteredit">keyfilteredit</string>
+    <string name="keyfiltercheck">keyfiltercheck</string>
+    <string name="keynotifycheck">keynotifycheck</string>
+    <string name="keyselectfeed">keyselectfeed</string>
+
+    <string-array name="settings_feed_key">
+        <item>Feed 1</item>
+        <item>Feed 2</item>
+    </string-array>
+    <string-array name="settings_feed_value">
+        <item>http://paging1.sacfs.org/live/</item>
+        <item>http://paging2.sacfs.org/live/</item>
+    </string-array>
+
+</resources>
