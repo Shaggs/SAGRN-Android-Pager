@@ -4,8 +4,10 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
-    <string name="feedone">Feed 1</string>
-    <string name="feedtwo">Feed 2</string>
+    <string name="feedone">SACFS.org 1</string>
+    <string name="feedtwo">SACFS.org 2</string>
+	<string name="feedthree">URGMSG Live</string>
+	<string name="feedfour">URGMSG No SAAS</string>
     <string name="about_menu_name">About</string>
     <string name="settings">Settings</string>
     <string name="about_message">SAGRN Mobile Pager Ver alpha_0.2.01</string>
@@ -28,12 +30,16 @@
     <string name="keyselectfeed">keyselectfeed</string>
 
     <string-array name="settings_feed_key">
-        <item>Feed 1</item>
-        <item>Feed 2</item>
+        <item>SACFS.org 1</item>
+        <item>SACFS.org 2</item>
+		<item>URGMSG Live</item>
+        <item>URGMSG No SAAS</item>
     </string-array>
     <string-array name="settings_feed_value">
         <item>http://paging1.sacfs.org/live/</item>
         <item>http://paging2.sacfs.org/live/</item>
+		<item>http://urgmsg.net/live/</item>
+        <item>http://urgmsg.net/livenosaas/</item>
     </string-array>
 
 </resources>
